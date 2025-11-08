@@ -63,6 +63,3 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 
 
-
-
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
